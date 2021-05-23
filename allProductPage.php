@@ -46,7 +46,7 @@
                             <h5 class="card-title"><?php echo $productNameArray[$i+$j] ?></h5>
                             <h6 class="card-subtitle mb-2 text-muted">$<?php echo $costArray[$i+$j] ?></h6>
                             <p class="card-text"><?php echo $productDataArray[$i+$j] ?></p>
-                            <a href="/?" class="btn btn-primary" >Review product</a>
+                            <a href="/item/?itemID=<?php echo $productIDArray[$i+$j]?>" class="btn btn-primary" >Review product</a>
                         </div>
                     </div>
                 </div>
