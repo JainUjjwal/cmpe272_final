@@ -53,7 +53,7 @@
                                     <h6 class="card-subtitle mb-2 text-muted">$<?php echo $costArray[$i + $j] ?></h6>
                                 <?php } ?>
                                 <p class="card-text"><?php echo $productDataArray[$i + $j] ?></p>
-                                <a href="./item.php?itemID=<?php echo $productIDArray[$i + $j] ?>" class="btn btn-primary">Review product</a>
+                                <a href="./review.php?itemID=<?php echo $productIDArray[$i + $j] ?>" class="btn btn-primary">Review product</a>
                             </div>
                         </div>
                     </div>

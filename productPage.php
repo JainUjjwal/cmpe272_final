@@ -28,7 +28,7 @@
                         <p class="card-text">We are a group of nature-loving people who have experience of 10 years in
                             hiking. We have traveled around the world to many places, and have experts in specific areas
                         </p>
-                        <a href="../allProductPage.php?products=hikelife.com" class="btn btn-primary">List Products</a>
+                        <a href="./allProductPage.php?products=hikelife.com" class="btn btn-primary">List Products</a>
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                         <p class="card-text">Exceptional Decor and Design for your interiors. We take interior design to
                             a new level with creative solutions helping you realizing your vision and make it reality.
                             Wanna work with us ?</p>
-                        <a href="../allProductPage.php?products=skyvah.com" class="btn btn-primary">List Products</a>
+                        <a href="./allProductPage.php?products=skyvah.com" class="btn btn-primary">List Products</a>
                     </div>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                         <p class="card-text">Hello, we're Omnifood, your new premium food delivery service. We know
                             you're always busy. No time for cooking. So let us take care of that, we're really good at
                             it, we promise!</p>
-                        <a href="../allProductPage.php?products=ujjwalcmpe.com" class="btn btn-primary">List Products</a>
+                        <a href="./allProductPage.php?products=ujjwalcmpe.com" class="btn btn-primary">List Products</a>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
                         <p class="card-text">We believe that design is a tool used to create a strong and lasting
                             impact. That is why our products are unique, functional, and carefully crafted, blending
                             traditional craftsmanship with modern style</p>
-                        <a href="../allProductPage.php?products=py-projects.com" class="btn btn-primary">List Products</a>
+                        <a href="./allProductPage.php?products=py-projects.com" class="btn btn-primary">List Products</a>
                     </div>
                 </div>
             </div>
