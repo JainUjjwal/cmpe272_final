@@ -20,3 +20,15 @@ INSERT INTO products (productName, websiteName, cost, productData, productImage)
 INSERT INTO products (productName, websiteName, cost, productData, productImage) VALUES ("Window Treatments", "skyvah.com", 0, "Give your house a unique look with our window treatment plans.", "https://res.cloudinary.com/cmpe272img/image/upload/v1621828026/skyvah/window-interior-room-226892_zigvid.jpg");
 INSERT INTO products (productName, websiteName, cost, productData, productImage) VALUES ("Small Office Renovations and Design", "skyvah.com", 0, "Get your office spaces tailored to your needs.", "https://res.cloudinary.com/cmpe272img/image/upload/v1621828073/skyvah/render-3d-design-2001817_pyd3zn.jpg");
 INSERT INTO products (productName, websiteName, cost, productData, productImage) VALUES ("Architecture Rendering and Design", "skyvah.com", 0, "Get realistic renders of your final structure.", "https://res.cloudinary.com/cmpe272img/image/upload/v1621828467/skyvah/architecture-render-external-1477099_f6nxwp.jpg");
+
+
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Wallpaper Decoration", "py-projects.com", 0, "Get our amazing wallpaper decoration services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Painting Services", "py-projects.com", 0, "Get our amazing paiting services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Indoor Decoration Services", "py-projects.com", 0, "Get our amazing interior decoration services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Nursery Room Decoration", "py-projects.com", 0, "Get our amazing Nursery Room decoration services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Living Room Decoration", "py-projects.com", 0, "Get our amazing Living Room Renovation services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Office Renovation", "py-projects.com", 0, "Get our amazing Office Renovation services.");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Flooring services", "py-projects.com", 0, "Get our amazing Flooring Renovation services");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Dining services", "py-projects.com", 0, "Get our amazing Dining decoration services");
+INSERT INTO products (productName, websiteName, cost, productData) VALUES ("Bedroom Renovation", "py-projects.com", 0, "Get our amazing Bedroom renovation services");
+
